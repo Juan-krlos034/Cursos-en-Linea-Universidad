@@ -1,8 +1,8 @@
-# 📘 Ejercicio: Procedimientos Almacenados en MySQL
+# Ejercicio: Procedimientos Almacenados en MySQL
 
 Este repositorio contiene un ejercicio académico con procedimientos almacenados, usando MySQL.
 
-## 📂 Archivos incluidos
+## Archivos incluidos
 
 - `estructura.sql` → Creación de tablas (`Cursos`, `Estudiantes`, `Inscripciones`, `Calificaciones`).
 - `datos_prueba.sql` → Inserción de datos de ejemplo (10 registros por tabla).
@@ -15,7 +15,7 @@ Este repositorio contiene un ejercicio académico con procedimientos almacenados
 - `pruebas.sql` → Llamadas de prueba para ejecutar los procedimientos.
 - `README.md` → Explicación del proyecto.
 
-## ▶️ Pasos para ejecutar
+## Pasos para ejecutar
 
 1. Crear la base de datos y tablas:
    ```sql
@@ -34,5 +34,3 @@ Este repositorio contiene un ejercicio académico con procedimientos almacenados
    SOURCE pruebas.sql;
    ```
 
-## 🧑‍💻 Autor
-Trabajo académico - Octubre 2025
